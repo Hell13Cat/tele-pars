@@ -10,6 +10,8 @@
 
 ## Установка
 
+Скачать последнюю версию из [всех](https://github.com/Hell13Cat/tele-pars/releases) и распаковать
+
 Создать свое приложение по [инструкции](https://tlgrm.ru/docs/api/obtaining_api_id)
 
 Ввести свои данные в config.py

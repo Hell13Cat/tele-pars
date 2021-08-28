@@ -1,5 +1,10 @@
 ## tele-pars
 
+
+Перемещено в https://github.com/Hell13Cat/tele-tools
+
+
+
 > Версия 1.0
 
 Скачивание фото из каналов
